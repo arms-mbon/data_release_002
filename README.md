@@ -1,13 +1,5 @@
 # data_release_002
 
-<!--These are the data files associated with the first ARMS-MBON dataset submitted to EurOBIS ([DOI](https://doi.org/10.14284/620)): -->
-**UPDATES** <br>
-These data are now available in the following biodiversity portals: 
-* OBIS dataset [ITS](https://obis.org/dataset/ddab58b2-0072-41b8-afc5-ac10d937247f), and its [metadata record](https://doi.org/10.14284/706)
-* OBIS dataset [COI](https://obis.org/dataset/066f002f-58d5-4687-bdb8-b39cdaef0c2b), and its [metadata record](https://doi.org/10.14284/620)
-* OBIS dataset [18S](https://obis.org/dataset/0ada9b0c-14f5-4247-881e-9f6f62b2c165), and its [metadata record](https://doi.org/10.14284/705)
-
-<br>
 These are the second set of data files to be submitted to (Eur)OBIS: taxonomic occurrences from the COI, 18S, and ITS marker gene omics data, sampling event metadata, and image metadata for the events of ARMS-MBON's second sampling campaign (all ARMS deployed in 2020 and 2021 and retrieved between and 2020 and 2022). This includes: 
 
 * The individual files that when combined, create the DwCA files that we submitted: a file of occurrences (taxonomy and event data), the DNA extension information (omics data), the EMOF (extra information that cannot otherwise be added to the other two files).
