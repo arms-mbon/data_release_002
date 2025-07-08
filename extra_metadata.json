@@ -1,0 +1,1304 @@
+{
+    "./": {
+        "wasAssociatedWith": [
+            {
+                "@id": "_:JustinePagnier"
+            },
+			{
+                "@id": "_:MatthiasObst"
+            },
+            {
+                "@id": "_:KatrinaExter"
+            },
+            {
+                "@id": "_:ChristinaPavloudi"
+            }
+        ],
+        "creator": [
+            {
+                "@id": "_:JustinePagnier"
+            },
+            {
+                "@id": "_:MatthiasObst"
+            },
+            {
+                "@id": "_:KatrinaExter"
+            },
+            {
+                "@id": "_:ChristinaPavloudi"
+            },
+            {
+                "@id": "_:ARMSProject"
+            },
+            {
+                "@id": "_:AssemblePlus"
+            }
+        ],
+        "publisher": {
+            "@id": "_:VLIZ"
+        },
+        "title": "data_release_002",
+        "license": "https://creativecommons.org/licenses/by/4.0/",
+        "contactPoint": [
+            "opsci@vliz.be",
+            {
+                "@id": "_:MatthiasObst"
+            }
+        ],
+        "description": "The first sampling event-data release for the ARMS-MBON dataset for the 18S-, ITS-, and COI-derived occurrence, for the sampling events from 2020-2021.",
+        "dct:relation": [
+            "https://github.com/arms-mbon/analysis_release_002",
+            "https://github.com/arms-mbon/code_release_002"
+        ],
+        "keywords":[
+            "sample",
+            "measurement",
+            "biodiversity",
+            "long-term-changes",
+            "marine-environment",
+            "genetics",
+            "benthic-communities"
+        ],
+        "dcat:theme":[
+            {"@id":"http://semanticscience.org/resource/SIO_001050"},
+            {"@id":"http://purl.obolibrary.org/obo/ExO_0000067"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=2185"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=3505"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=1150"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=2365"},
+            {"@id":"https://vocabularyserver.com/asfa/?tema=2091"}
+        ],
+        "temporal": {
+            "start": "2020-01-31",
+            "end": "2021-11-15"
+        },
+        "spatialCoverage": [
+            {
+                "@id": "_:point_1"
+            },
+            {
+                "@id": "_:point_2"
+            },
+            {
+                "@id": "_:point_3"
+            },
+            {
+                "@id": "_:point_4"
+            },
+            {
+                "@id": "_:point_5"
+            },
+            {
+                "@id": "_:point_6"
+            },
+            {
+                "@id": "_:point_7"
+            },
+            {
+                "@id": "_:point_8"
+            },
+            {
+                "@id": "_:point_9"
+            },
+            {
+                "@id": "_:point_10"
+            },
+            {
+                "@id": "_:point_11"
+            },
+            {
+                "@id": "_:point_12"
+            },
+            {
+                "@id": "_:point_13"
+            },
+            {
+                "@id": "_:point_14"
+            },
+            {
+                "@id": "_:point_15"
+            },
+            {
+                "@id": "_:point_16"
+            },
+            {
+                "@id": "_:point_17"
+            },
+            {
+                "@id": "_:point_18"
+            },
+            {
+                "@id": "_:point_19"
+            },
+            {
+                "@id": "_:point_20"
+            },
+            {
+                "@id": "_:point_21"
+            },
+            {
+                "@id": "_:point_22"
+            },
+            {
+                "@id": "_:point_23"
+            },
+            {
+                "@id": "_:point_24"
+            },
+            {
+                "@id": "_:point_25"
+            },
+            {
+                "@id": "_:point_26"
+            },
+            {
+                "@id": "_:point_27"
+            },
+            {
+                "@id": "_:point_28"
+            },
+            {
+                "@id": "_:point_29"
+            },
+            {
+                "@id": "_:point_30"
+            },
+            {
+                "@id": "_:point_31"
+            },
+            {
+                "@id": "_:point_32"
+            },
+            {
+                "@id": "_:point_33"
+            },
+            {
+                "@id": "_:point_34"
+            },
+            {
+                "@id": "_:point_35"
+            },
+            {
+                "@id": "_:point_36"
+            },
+            {
+                "@id": "_:point_37"
+            },
+            {
+                "@id": "_:point_38"
+            },
+            {
+                "@id": "_:point_39"
+            },
+            {
+                "@id": "_:point_40"
+            },
+            {
+                "@id": "_:point_41"
+            },
+            {
+                "@id": "_:point_42"
+            },
+            {
+                "@id": "_:point_43"
+            },
+            {
+                "@id": "_:point_44"
+            },
+            {
+                "@id": "_:point_45"
+            },
+            {
+                "@id": "_:point_46"
+            },
+            {
+                "@id": "_:point_47"
+            },
+			{
+                "@id": "_:point_48"
+            },
+			{
+                "@id": "_:point_49"
+            },
+			{
+                "@id": "_:point_50"
+            },
+			{
+                "@id": "_:point_51"
+            },
+			{
+                "@id": "_:point_52"
+            },
+			{
+                "@id": "_:point_53"
+            },
+			{
+                "@id": "_:point_54"
+            },            
+			{
+                "@id": "_:point_55"
+            }
+        ]
+    },
+    "_:point_1": {
+        "@type": "Place",
+        "label": "Point 5",
+        "geo": {
+            "@id": "_:point_5"
+        },
+        "geoCoveredBy": "http://marineregions.org/mrgid/26567"
+    },
+    "_:point_9": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_9"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 9"
+    },
+    "_:Point_8": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_8"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 8"
+    },
+    "_:point_2": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_2"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 2"
+    },
+    "_:point_3": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_3"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 3"
+    },
+    "_:point_4": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_4"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 4"
+    },
+    "_:point_6": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_6"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point 6"
+    },    
+	"_:point_7": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_7"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/26567"
+        },
+        "label": "Point_7"
+    },
+    "_:point_12": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_12"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40806"
+        },
+        "label": "Point 12"
+    },
+    "_:point_11": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_11"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40806"
+        },
+        "label": "Point 11"
+    },
+    "_:point_10": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_10"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40806"
+        },
+        "label": "Point 10"
+    },
+    "_:point_14": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_14"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/17355"
+        },
+        "label": "Point_14"
+    },
+    "_:point_18": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_18"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/17355"
+        },
+        "label": "Point_18"
+    },
+    "_:point_13": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_13"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/17355"
+        },
+        "label": "Point_13"
+    },
+    "_:point_15": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_15"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/40020"
+        },
+        "label": "Point 15"
+    },
+    "_:point_16": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_16"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/27436"
+        },
+        "label": "Point 16"
+    },
+    "_:point_17": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_17"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/27436"
+        },
+        "label": "Point 17"
+    },
+    "_:point_20": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_20"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/27436"
+        },
+        "label": "Point 20"
+    },
+    "_:point_21": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_21"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24206"
+        },
+        "label": "Point 21"
+    },
+    "_:point_19": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_19"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24206"
+        },
+        "label": "Point 19"
+    },
+    "_:point_24": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_24"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24206"
+        },
+        "label": "Point_24"
+    },
+    "_:point_22": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_22"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/48617"
+        },
+        "label": "Point 22"
+    },
+    "_:point_23": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_23"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/29864"
+        },
+        "label": "Point 23"
+    },
+    "_:point_25": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_25"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/29864"
+        },
+        "label": "Point 25"
+    },
+    "_:point_35": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_35"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 35"
+    },
+    "_:point_36": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_36"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 36"
+    },
+    "_:point_47": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_47"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 47"
+    },
+	
+    "_:point_46": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_46"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 46"
+    },
+    "_:point_43": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_43"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28676"
+        },
+        "label": "Point 47"
+    },
+    "_:point_26": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_26"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28614"
+        },
+        "label": "Point 26"
+    },
+    "_:point_27": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_27"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28614"
+        },
+        "label": "Point 27"
+    },
+    "_:point_28": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_28"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/28614"
+        },
+        "label": "Point 28"
+    },	
+    "_:point_29": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_29"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 29"
+    },
+    "_:point_30": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_30"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 30"
+    },
+    "_:point_31": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_31"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 31"
+    },
+    "_:point_32": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_32"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 32"
+    },
+    "_:point_33": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_33"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 33"
+    },
+    "_:point_34": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_34"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42082"
+        },
+        "label": "Point 34"
+    },
+    "_:point_37": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_43"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 37"
+    },
+    "_:point_38": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_38"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/24056"
+        },
+        "label": "Point 38"
+    },
+    "_:point_39": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_39"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 39"
+    },
+    "_:point_40": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_40"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42108"
+        },
+        "label": "Point 40"
+    },
+    "_:point_41": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_41"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 41"
+    },
+    "_:point_42": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_42"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 42"
+    },
+    "_:point_44": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_44"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42012"
+        },
+        "label": "Point 44"
+    },
+    "_:point_45": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_45"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 45"
+    },
+    "_:point_48": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_48"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42108"
+        },
+        "label": "Point 48"
+    },
+    "_:point_49": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_49"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42108"
+        },
+        "label": "Point 49"
+    },
+    "_:point_50": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_50"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 50"
+    },
+    "_:point_51": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_51"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 51"
+    },
+    "_:point_52": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_52"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 52"
+    },
+    "_:point_53": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_53"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42056"
+        },
+        "label": "Point 53"
+    },
+    "_:point_54": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_54"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42012"
+        },
+        "label": "Point 54"
+    },
+    "_:point_55": {
+        "@type": "Place",
+        "geo": {
+            "@id": "_:point_55"
+        },
+        "geoCoveredBy": {
+            "URL": "http://marineregions.org/mrgid/42011"
+        },
+        "label": "Point 55"
+    },	
+    "./ARMS_COI_DNAextension.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The DNA extension for the COI data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_DNAextension.csv"
+    },
+    "./demultiplexing_details_OmicsData_release002.csv": {
+        "encodingFormat": "text/csv",
+        "description": "File containing some details of the demultiplexing of the sequences by PEMA",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./demultiplexing_details_OmicsData_release002.csv"
+    },
+    "./ARMS_COI_Occurrence.zip": {
+        "encodingFormat": "zip",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The Occurrence extension for the COI data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_Occurrence.csv"
+    },
+    "./ARMS_COI_EMOF.zip": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The EMOF for the COI data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_EMOF.csv"
+    },
+    "./ARMS_18S_DNAextension.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The DNA extension for the 18S data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_DNAextension.csv"
+    },
+    "./ARMS_18S_Occurrence.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The Occurrence extension for the 18S data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_Occurrence.csv"
+    },
+    "./ARMS_18S_EMOF.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The EMOF for the 18S data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_EMOF.csv"
+    },
+    "./ARMS_ITS_DNAextension.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The DNA extension for the ITS data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_DNAextension.csv"
+    },
+    "./ARMS_ITS_Occurrence.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The Occurrence extension for the ITS data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_Occurrence.csv"
+    },
+    "./ARMS_ITS_EMOF.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
+        ],
+        "description": "The EMOF for the ITS data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_EMOF.csv"
+    },
+    "./ImageData_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_ImageData.csv"
+        ],
+        "description": "Contains the links to all images and spreadsheets associated with the sampling events in this dataset",
+        "dct:relation": "./ImageMetadata_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ImageData_release002.csv"
+    },
+    "./ImageMetadata_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_ImageMetadata.csv"
+        ],
+        "description": "Metadata describing the columns of ImageData_release002",
+        "dct:relation": "./ImageData_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ImageMetadata_release002.csv"
+    },
+    "./ObservatoryData_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            " https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_ObservatoryData.csv"
+        ],
+        "description": "Contains the Observatory data associated with the sampling events in this dataset",
+        "dct:relation": "./ObservatoryMetadata_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ObservatoryData_release002.csv"
+    },
+    "./ObservatoryMetadata_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            " https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_ObservatoryMetadata.csv"
+        ],
+        "description": "Metadata describing the columns of ObservatoryData_release002",
+        "dct:relation": "./ObservatoryData_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ObservatoryMetadata_release002.csv"
+    },
+    "./OmicsData_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            " https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_OmicsData.csv"
+        ],
+        "description": "Contains the Genomics data associated with the sampling events in this dataset",
+        "dct:relation": "./OmicsMetadata_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./OmicsData_release002.csv"
+    },
+    "./OmicsMetadata_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            " https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_OmicsMetadata.csv"
+        ],
+        "description": "Metadata describing the columns of OmicsData_release002",
+        "dct:relation": "./OmicsData_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./OmicsMetadata_release002.csv"
+    },
+    "./SamplingEventData_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            " https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_SamplingEventData.csv"
+        ],
+        "description": "Contains the Sampling event data associated with the sampling events in this dataset",
+        "dct:relation": "./SamplingEventMetadata_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./SamplingEventData_release002.csv"
+    },
+    "./SamplingEventMetadata_release002.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            " https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/combined_SamplingEventMetadata.csv"
+        ],
+        "description": "Metadata describing the columns of SamplingEventData_release002",
+        "dct:relation": "./SamplingEventData_release002.csv",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./SamplingEventMetadata_release002.csv"
+    },
+    "_:JustinePagnier": {
+        "@type": "Person",
+        "name": "Justine Pagnier",
+        "email": "justine.pagnier@gu.se",
+        "identifier": "https://orcid.org/0000-0002-6531-1374"
+    },
+    "_:MatthiasObst": {
+        "@type": "Person",
+        "name": "Matthias Obst",
+        "email": "matthias.obst@marine.gu.se",
+        "identifier": "https://orcid.org/0000-0003-0264-9631"
+    },
+    "_:KatrinaExter": {
+        "@type": "Person",
+        "name": "Katrina Exter",
+        "email": "katrina.exter@vliz.be",
+        "identifier": "https://orcid.org/0000-0002-5911-1536"
+    },
+    "_:ChristinaPavloudi": {
+        "@type": "Person",
+        "name": "Christina Pavloudi",
+        "email": "cpavloud@hcmr.gr",
+        "identifier": "https://orcid.org/0000-0001-5106-6067"
+    },
+    "_:VLIZ": {
+        "@type": "Organization",
+        "name": "Flanders Marine Institute",
+        "url": "https://www.vliz.be/en",
+        "label": "_:VLIZ"
+    },
+    "_:ARMSProject": {
+        "@type": "Project",
+        "name": "ARMS-MBON",
+        "identifier": "https://arms-mbon.eu"
+    },
+    "_:AssemblePlus": {
+        "@type": "Project",
+        "name": "ASSEMBLE Plus",
+        "identifier": "https://cordis.europa.eu/project/id/730984"
+    },
+    "_:point_5": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.64971",
+        "longitude": "2.789374",
+        "label": "_:point_5"
+    },
+    "_:point_9": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.6533567",
+        "longitude": "2.79178508",
+        "label": "_:point_9"
+    },
+    "_:point_8": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.65264",
+        "longitude": "2.79369998",
+        "label": "_:point_8"
+    },
+    "_:point_2": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.65374944",
+        "longitude": "2.79602577",
+        "label": "_:point_2"
+    },
+    "_:point_3": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.64505",
+        "longitude": "2.793074",
+        "label": "_:point_3"
+    },
+    "_:point_4": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.64816667",
+        "longitude": "2.53583333",
+        "label": "_:point_4"
+    },
+    "_:point_6": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.64816667",
+        "longitude": "2.53583333",
+        "label": "_:point_6"
+    },
+    "_:point_7": {
+        "@type": "GeoCoordinates",
+        "latitude": "51.11486388",
+        "longitude": "2.57857672",
+        "label": "_:point_7"
+    },
+    "_:point_12": {
+        "@type": "GeoCoordinates",
+        "latitude": "56.90155",
+        "longitude": "9.05516667",
+        "label": "_:point_12"
+    },
+    "_:point_11": {
+        "@type": "GeoCoordinates",
+        "latitude": "56.89985",
+        "longitude": "9.05663333",
+        "label": "_:point_11"
+    },
+    "_:point_10": {
+        "@type": "GeoCoordinates",
+        "latitude": "56.90131667",
+        "longitude": "9.05733333",
+        "label": "_:point_10"
+    },
+    "_:point_14": {
+        "@type": "GeoCoordinates",
+        "latitude": "43.338452",
+        "longitude": "-3.014833",
+        "label": "_:point_14"
+    },
+    "_:point_18": {
+        "@type": "GeoCoordinates",
+        "latitude": "43.3385",
+        "longitude": "-3.01491",
+        "label": "_:point_18"
+    },
+    "_:point_13": {
+        "@type": "GeoCoordinates",
+        "latitude": "43.33843",
+        "longitude": "-3.01483",
+        "label": "_:point_13"
+    },
+    "_:point_15": {
+        "@type": "GeoCoordinates",
+        "latitude": "42.2284",
+        "longitude": "-8.7787",
+        "label": "_:point_15"
+    },
+    "_:point_16": {
+        "@type": "GeoCoordinates",
+        "latitude": "59.841505",
+        "longitude": "23.248879",
+        "label": "_:point_16"
+    },
+    "_:point_17": {
+        "@type": "GeoCoordinates",
+        "latitude": "59.86442",
+        "longitude": "23.265084",
+        "label": "_:point_17"
+    },
+    "_:point_20": {
+        "@type": "GeoCoordinates",
+        "latitude": "59.81094",
+        "longitude": "23.206216",
+        "label": "_:point_20"
+    },
+    "_:point_21": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.3673",
+        "longitude": "-4.1554",
+        "label": "_:point_21"
+    },
+    "_:point_19": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.3668",
+        "longitude": "-4.1561",
+        "label": "_:point_19"
+    },
+    "_:point_24": {
+        "@type": "GeoCoordinates",
+        "latitude": "50.3674",
+        "longitude": "-4.1544",
+        "label": "_:point_24"
+    },
+    "_:point_22": {
+        "@type": "GeoCoordinates",
+        "latitude": "35.343153",
+        "longitude": "25.136605",
+        "label": "_:point_22"
+    },
+    "_:point_23": {
+        "@type": "GeoCoordinates",
+        "latitude": "45.54875",
+        "longitude": "13.5507",
+        "label": "_:point_23"
+    },
+    "_:point_25": {
+        "@type": "GeoCoordinates",
+        "latitude": "45.564856",
+        "longitude": "13.743586",
+        "label": "_:point_25"
+    },
+    "_:point_35": {
+        "@type": "GeoCoordinates",
+        "latitude": "58.875155",
+        "longitude": "11.103194",
+        "label": "_:point_35"
+    },
+    "_:point_36": {
+        "@type": "GeoCoordinates",
+        "latitude": "58.87633",
+        "longitude": "11.111884",
+        "label": "_:point_36"
+    },
+    "_:point_47": {
+        "@type": "GeoCoordinates",
+        "latitude": "58.859877",
+        "longitude": "11.080491",
+        "label": "_:point_47"
+    },
+    "_:point_46": {
+        "@type": "GeoCoordinates",
+        "latitude": "58.87633",
+        "longitude": "11.111884",
+        "label": "_:point_46"
+    },
+    "_:point_43": {
+        "@type": "GeoCoordinates",
+        "latitude": "58.875155",
+        "longitude": "11.103194",
+        "label": "_:point_43"
+    },
+    "_:point_26": {
+        "@type": "GeoCoordinates",
+        "latitude": "53.315675",
+        "longitude": "-9.668541",
+        "label": "_:point_26"
+    },
+    "_:point_27": {
+        "@type": "GeoCoordinates",
+        "latitude": "53.315443",
+        "longitude": "-9.671564",
+        "label": "_:point_27"
+    },
+    "_:point_28": {
+        "@type": "GeoCoordinates",
+        "latitude": "53.315693",
+        "longitude": "-9.670278",
+        "label": "_:point_28"
+    },
+    "_:point_29": {
+        "@type": "GeoCoordinates",
+        "latitude": "44.421488",
+        "longitude": "12.209497",
+        "label": "_:point_29"
+    },
+    "_:point_30": {
+        "@type": "GeoCoordinates",
+        "latitude": "44.492426",
+        "longitude": "12.287623",
+        "label": "_:point_30"
+    },
+    "_:point_31": {
+        "@type": "GeoCoordinates",
+        "latitude": "44.492426",
+        "longitude": "12.287623",
+        "label": "_:point_31"
+    },
+    "_:point_32": {
+        "@type": "GeoCoordinates",
+        "latitude": "44.492426",
+        "longitude": "12.287623",
+        "label": "_:point_32"
+    },
+    "_:point_33": {
+        "@type": "GeoCoordinates",
+        "latitude": "44.421488",
+        "longitude": "12.209497",
+        "label": "_:point_33"
+    },
+    "_:point_34": {
+        "@type": "GeoCoordinates",
+        "latitude": "44.421488",
+        "longitude": "12.209497",
+        "label": "_:point_34"
+    },
+    "_:point_37": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.903512",
+        "longitude": "11.581548",
+        "label": "_:point_37"
+    },
+    "_:point_38": {
+        "@type": "GeoCoordinates",
+        "latitude": "56.026272",
+        "longitude": "12.695728",
+        "label": "_:point_38"
+    },
+    "_:point_39": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.914434",
+        "longitude": "11.594154",
+        "label": "_:point_39"
+    },
+    "_:point_40": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.1126278",
+        "longitude": "12.2302732",
+        "label": "_:point_40"
+    },
+    "_:point_41": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.703221",
+        "longitude": "11.711363",
+        "label": "_:point_41"
+    },
+    "_:point_42_geo68": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.680805",
+        "longitude": "11.728331",
+        "label": "_:point_47_geo68"
+    },
+    "_:point_44": {
+        "@type": "GeoCoordinates",
+        "latitude": "58.3533",
+        "longitude": "11.43486",
+        "label": "_:point_44"
+    },
+    "_:point_45": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.680533",
+        "longitude": "11.740578",
+        "label": "_:point_45"
+    },
+    "_:point_48": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.1133741",
+        "longitude": "12.2299832",
+        "label": "_:point_48"
+    },
+    "_:point_49": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.1107004",
+        "longitude": "12.2439775",
+        "label": "_:point_49"
+    },
+    "_:point_50": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.717984",
+        "longitude": "11.679989",
+        "label": "_:point_50"
+    },
+    "_:point_51": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.664608",
+        "longitude": "11.732876",
+        "label": "_:point_51"
+    },
+    "_:point_52": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.889278",
+        "longitude": "11.585722",
+        "label": "_:point_52"
+    },
+    "_:point_53": {
+        "@type": "GeoCoordinates",
+        "latitude": "56.018061",
+        "longitude": "12.700541",
+        "label": "_:point_53"
+    },
+    "_:point_54": {
+        "@type": "GeoCoordinates",
+        "latitude": "58.35405",
+        "longitude": "11.43394",
+        "label": "_:point_54"
+    },
+    "_:point_55": {
+        "@type": "GeoCoordinates",
+        "latitude": "57.664805",
+        "longitude": "11.714735",
+        "label": "_:point_55"
+    }
+}
