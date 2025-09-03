@@ -779,92 +779,6 @@
         },
         "label": "Point 55"
     },	
-    "./ARMS_COI_DNAextension.csv": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The DNA extension for the COI data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_DNAextension.csv"
-    },
-    "./demultiplexing_details_OmicsData_release002.csv": {
-        "encodingFormat": "text/csv",
-        "description": "File containing some details of the demultiplexing of the sequences by PEMA",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./demultiplexing_details_OmicsData_release002.csv"
-    },
-    "./ARMS_COI_Occurrence.zip": {
-        "encodingFormat": "zip",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The Occurrence extension for the COI data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_Occurrence.csv"
-    },
-    "./ARMS_COI_EMOF.zip": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The EMOF for the COI data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_EMOF.csv"
-    },
-    "./ARMS_18S_DNAextension.csv": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The DNA extension for the 18S data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_DNAextension.csv"
-    },
-    "./ARMS_18S_Occurrence.csv": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The Occurrence extension for the 18S data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_Occurrence.csv"
-    },
-    "./ARMS_18S_EMOF.csv": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The EMOF for the 18S data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_EMOF.csv"
-    },
-    "./ARMS_ITS_DNAextension.csv": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The DNA extension for the ITS data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_DNAextension.csv"
-    },
-    "./ARMS_ITS_Occurrence.csv": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The Occurrence extension for the ITS data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_Occurrence.csv"
-    },
-    "./ARMS_ITS_EMOF.csv": {
-        "encodingFormat": "text/csv",
-        "wasDerivedFrom": [
-            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
-            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch1"
-        ],
-        "description": "The EMOF for the ITS data",
-        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_EMOF.csv"
-    },
     "./ImageData_release002.csv": {
         "encodingFormat": "text/csv",
         "wasDerivedFrom": [
@@ -1302,3 +1216,4 @@
         "label": "_:point_55"
     }
 }
+
