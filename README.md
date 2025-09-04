@@ -7,6 +7,8 @@ These are the second set of data files to be submitted to (Eur)OBIS: taxonomic o
 
 The source files for the omics and taxonomic data can be found in [the analysis_release_002](https://github.com/arms-mbon/analysis_release_002) repository: the input and output files for the bioinformatics analysis done with PEMA can be found there. Links to the PEMA pipeline can also be found there. The code that was used to reforumlate PEMA outputs and search various databases for associated information can be found in [code_release_002](https://github.com/arms-mbon/code_release_002). 
 
+Contaminants have been filtered out with **decontam** (R) using run-specific negative controls and the prevalence method. ASVs flagged as contaminants were removed prior to data release. Detailed scripts are provided in [code_release_002](https://github.com/arms-mbon/code_release_002).
+
 For more information on ARMS-MBON, see its [data landing page](https://data.arms-mbon.org/) and references there in. 
 
   
