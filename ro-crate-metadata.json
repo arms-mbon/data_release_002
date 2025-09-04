@@ -89,7 +89,7 @@
                     "@id": "_:MatthiasObst"
                 }
             ],
-            "description": "The first sampling event-data release for the ARMS-MBON dataset for the 18S-, ITS-, and COI-derived occurrence, for the sampling events from 2020-2021.",
+            "description": "The second sampling event-data release for the ARMS-MBON dataset for the 18S-, ITS-, and COI-derived occurrence, for the sampling events from 2020-2021.",
             "dct:relation": [
                 "https://github.com/arms-mbon/analysis_release_002",
                 "https://github.com/arms-mbon/code_release_002"
