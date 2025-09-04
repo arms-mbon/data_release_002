@@ -35,6 +35,9 @@
                     "@id": "./OmicsData_release002.csv"
                 },
                 {
+                    "@id": "./demultiplexing_details_OmicsData_release002.csv"
+                },
+                {
                     "@id": "./SamplingEventMetadata_release002.csv"
                 },
                 {
@@ -824,6 +827,11 @@
             "description": "Contains the Genomics data associated with the sampling events in this dataset",
             "dct:relation": "./OmicsMetadata_release002.csv",
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./OmicsData_release002.csv"
+        },
+        {
+            "@id": "./demultiplexing_details_OmicsData_release002.csv",
+            "@type": "File",
+            "label": "./demultiplexing_details_OmicsData_release002.csv"
         },
         {
             "@id": "./SamplingEventMetadata_release002.csv",
