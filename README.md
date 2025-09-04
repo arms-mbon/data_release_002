@@ -22,6 +22,6 @@ These are the files that contain the sampling event data. This is a subset of th
 Note that these files [in the combined data folder](https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined) may also be useful to you:
 *  A [list of the ENA project, sample, and run accession numbers](https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/ena_accession_numbers.xlsx) for all the ARMS-MBON data to date
 *  A [list of the area/field and sample/technical replicates](https://github.com/arms-mbon/data_workspace/blob/main/qualitycontrolled_data/combined/replicates_list.csv) for all the ARMS-MBON data to date
-
+*  Additional sequencing demultiplexing metadata - see the README in the folder for an explanation; the subset of those samples relevant to this data release can be found on [demultiplexing_details_OmicsData_release002.csv](https://github.com/arms-mbon/data_release_002/blob/main/demultiplexing_details_OmicsData_release002.csv). 
 
 
