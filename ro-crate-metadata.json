@@ -17,19 +17,16 @@
             "label": "./",
             "hasPart": [
                 {
-                    "@id": "./occurrence_CO1.csv"
+                    "@id": "./ARMS_COI_EMOF.csv"
                 },
                 {
                     "@id": "./SamplingEventData_release002.csv"
                 },
                 {
-                    "@id": "./occurrence_18s.csv"
+                    "@id": "./ARMS_ITS_Occurrence.csv"
                 },
                 {
-                    "@id": "./emof_CO1.csv"
-                },
-                {
-                    "@id": "./dnaextension_CO1.csv"
+                    "@id": "./ARMS_COI_Occurrence.csv"
                 },
                 {
                     "@id": "./ImageData_release002.csv"
@@ -41,16 +38,16 @@
                     "@id": "./ImageMetadata_release002.csv"
                 },
                 {
-                    "@id": "./occurrence_ITS.csv"
+                    "@id": "./ARMS_COI_DNAextension.csv"
                 },
                 {
-                    "@id": "./emof_ITS.csv"
+                    "@id": "./ARMS_18S_EMOF.csv"
                 },
                 {
                     "@id": "./ObservatoryMetadata_release002.csv"
                 },
                 {
-                    "@id": "./dnaextension_ITS.csv"
+                    "@id": "./ARMS_18S_DNAextension.csv"
                 },
                 {
                     "@id": "./OmicsData_release002.csv"
@@ -62,13 +59,16 @@
                     "@id": "./SamplingEventMetadata_release002.csv"
                 },
                 {
-                    "@id": "./dnaextension_18s.csv"
+                    "@id": "./ARMS_ITS_DNAextension.csv"
+                },
+                {
+                    "@id": "./ARMS_ITS_EMOF.csv"
                 },
                 {
                     "@id": "./OmicsMetadata_release002.csv"
                 },
                 {
-                    "@id": "./emof_18s.csv"
+                    "@id": "./ARMS_18S_Occurrence.csv"
                 },
                 {
                     "@id": "./ObservatoryData_release002.csv"
@@ -791,9 +791,9 @@
             "label": "_:point_47_geo68"
         },
         {
-            "@id": "./occurrence_CO1.csv",
+            "@id": "./ARMS_COI_EMOF.csv",
             "@type": "File",
-            "label": "./occurrence_CO1.csv"
+            "label": "./ARMS_COI_EMOF.csv"
         },
         {
             "@id": "./SamplingEventData_release002.csv",
@@ -808,19 +808,14 @@
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./SamplingEventData_release002.csv"
         },
         {
-            "@id": "./occurrence_18s.csv",
+            "@id": "./ARMS_ITS_Occurrence.csv",
             "@type": "File",
-            "label": "./occurrence_18s.csv"
+            "label": "./ARMS_ITS_Occurrence.csv"
         },
         {
-            "@id": "./emof_CO1.csv",
+            "@id": "./ARMS_COI_Occurrence.csv",
             "@type": "File",
-            "label": "./emof_CO1.csv"
-        },
-        {
-            "@id": "./dnaextension_CO1.csv",
-            "@type": "File",
-            "label": "./dnaextension_CO1.csv"
+            "label": "./ARMS_COI_Occurrence.csv"
         },
         {
             "@id": "./ImageData_release002.csv",
@@ -852,14 +847,14 @@
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ImageMetadata_release002.csv"
         },
         {
-            "@id": "./occurrence_ITS.csv",
+            "@id": "./ARMS_COI_DNAextension.csv",
             "@type": "File",
-            "label": "./occurrence_ITS.csv"
+            "label": "./ARMS_COI_DNAextension.csv"
         },
         {
-            "@id": "./emof_ITS.csv",
+            "@id": "./ARMS_18S_EMOF.csv",
             "@type": "File",
-            "label": "./emof_ITS.csv"
+            "label": "./ARMS_18S_EMOF.csv"
         },
         {
             "@id": "./ObservatoryMetadata_release002.csv",
@@ -874,9 +869,9 @@
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ObservatoryMetadata_release002.csv"
         },
         {
-            "@id": "./dnaextension_ITS.csv",
+            "@id": "./ARMS_18S_DNAextension.csv",
             "@type": "File",
-            "label": "./dnaextension_ITS.csv"
+            "label": "./ARMS_18S_DNAextension.csv"
         },
         {
             "@id": "./OmicsData_release002.csv",
@@ -908,9 +903,14 @@
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./SamplingEventMetadata_release002.csv"
         },
         {
-            "@id": "./dnaextension_18s.csv",
+            "@id": "./ARMS_ITS_DNAextension.csv",
             "@type": "File",
-            "label": "./dnaextension_18s.csv"
+            "label": "./ARMS_ITS_DNAextension.csv"
+        },
+        {
+            "@id": "./ARMS_ITS_EMOF.csv",
+            "@type": "File",
+            "label": "./ARMS_ITS_EMOF.csv"
         },
         {
             "@id": "./OmicsMetadata_release002.csv",
@@ -925,9 +925,9 @@
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./OmicsMetadata_release002.csv"
         },
         {
-            "@id": "./emof_18s.csv",
+            "@id": "./ARMS_18S_Occurrence.csv",
             "@type": "File",
-            "label": "./emof_18s.csv"
+            "label": "./ARMS_18S_Occurrence.csv"
         },
         {
             "@id": "./ObservatoryData_release002.csv",
