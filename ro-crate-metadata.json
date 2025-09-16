@@ -17,7 +17,19 @@
             "label": "./",
             "hasPart": [
                 {
+                    "@id": "./occurrence_CO1.csv"
+                },
+                {
                     "@id": "./SamplingEventData_release002.csv"
+                },
+                {
+                    "@id": "./occurrence_18s.csv"
+                },
+                {
+                    "@id": "./emof_CO1.csv"
+                },
+                {
+                    "@id": "./dnaextension_CO1.csv"
                 },
                 {
                     "@id": "./ImageData_release002.csv"
@@ -29,7 +41,16 @@
                     "@id": "./ImageMetadata_release002.csv"
                 },
                 {
+                    "@id": "./occurrence_ITS.csv"
+                },
+                {
+                    "@id": "./emof_ITS.csv"
+                },
+                {
                     "@id": "./ObservatoryMetadata_release002.csv"
+                },
+                {
+                    "@id": "./dnaextension_ITS.csv"
                 },
                 {
                     "@id": "./OmicsData_release002.csv"
@@ -41,7 +62,13 @@
                     "@id": "./SamplingEventMetadata_release002.csv"
                 },
                 {
+                    "@id": "./dnaextension_18s.csv"
+                },
+                {
                     "@id": "./OmicsMetadata_release002.csv"
+                },
+                {
+                    "@id": "./emof_18s.csv"
                 },
                 {
                     "@id": "./ObservatoryData_release002.csv"
@@ -764,6 +791,11 @@
             "label": "_:point_47_geo68"
         },
         {
+            "@id": "./occurrence_CO1.csv",
+            "@type": "File",
+            "label": "./occurrence_CO1.csv"
+        },
+        {
             "@id": "./SamplingEventData_release002.csv",
             "@type": "File",
             "label": "./SamplingEventData_release002.csv",
@@ -774,6 +806,21 @@
             "description": "Contains the Sampling event data associated with the sampling events in this dataset",
             "dct:relation": "./SamplingEventMetadata_release002.csv",
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./SamplingEventData_release002.csv"
+        },
+        {
+            "@id": "./occurrence_18s.csv",
+            "@type": "File",
+            "label": "./occurrence_18s.csv"
+        },
+        {
+            "@id": "./emof_CO1.csv",
+            "@type": "File",
+            "label": "./emof_CO1.csv"
+        },
+        {
+            "@id": "./dnaextension_CO1.csv",
+            "@type": "File",
+            "label": "./dnaextension_CO1.csv"
         },
         {
             "@id": "./ImageData_release002.csv",
@@ -805,6 +852,16 @@
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ImageMetadata_release002.csv"
         },
         {
+            "@id": "./occurrence_ITS.csv",
+            "@type": "File",
+            "label": "./occurrence_ITS.csv"
+        },
+        {
+            "@id": "./emof_ITS.csv",
+            "@type": "File",
+            "label": "./emof_ITS.csv"
+        },
+        {
             "@id": "./ObservatoryMetadata_release002.csv",
             "@type": "File",
             "label": "./ObservatoryMetadata_release002.csv",
@@ -815,6 +872,11 @@
             "description": "Metadata describing the columns of ObservatoryData_release002",
             "dct:relation": "./ObservatoryData_release002.csv",
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ObservatoryMetadata_release002.csv"
+        },
+        {
+            "@id": "./dnaextension_ITS.csv",
+            "@type": "File",
+            "label": "./dnaextension_ITS.csv"
         },
         {
             "@id": "./OmicsData_release002.csv",
@@ -846,6 +908,11 @@
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./SamplingEventMetadata_release002.csv"
         },
         {
+            "@id": "./dnaextension_18s.csv",
+            "@type": "File",
+            "label": "./dnaextension_18s.csv"
+        },
+        {
             "@id": "./OmicsMetadata_release002.csv",
             "@type": "File",
             "label": "./OmicsMetadata_release002.csv",
@@ -856,6 +923,11 @@
             "description": "Metadata describing the columns of OmicsData_release002",
             "dct:relation": "./OmicsData_release002.csv",
             "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./OmicsMetadata_release002.csv"
+        },
+        {
+            "@id": "./emof_18s.csv",
+            "@type": "File",
+            "label": "./emof_18s.csv"
         },
         {
             "@id": "./ObservatoryData_release002.csv",
