@@ -851,6 +851,87 @@
         "dct:relation": "./SamplingEventData_release002.csv",
         "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./SamplingEventMetadata_release002.csv"
     },
+    "./ARMS_COI_DNAextension.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The DNA extension for the COI data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_DNAextension.csv"
+    },
+    "./ARMS_18S_DNAextension.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The DNA extension for the 18S data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_DNAextension.csv"
+    },
+	"./ARMS_ITS_DNAextension.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The DNA extension for the ITS data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_DNAextension.csv"
+    },
+	"./ARMS_COI_Occurrence.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The occurrence file for the COI data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_Occurrence.csv"
+    },
+    "./ARMS_18S_Occurrence.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The occurrence file for the 18S data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_Occurrence.csv"
+    },
+	"./ARMS_ITS_Occurrence.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The occurrence file for the ITS data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_Occurrence.csv"
+    },
+	"./ARMS_COI_EMOF.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The EMOF file for the COI data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_COI_EMOF.csv"
+    },
+    "./ARMS_18S_EMOF.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The EMOF file for the 18S data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_18S_EMOF.csv"
+    },
+	"./ARMS_ITS_EMOF.csv": {
+        "encodingFormat": "text/csv",
+        "wasDerivedFrom": [
+            "https://github.com/arms-mbon/data_workspace/tree/main/qualitycontrolled_data/combined",
+            "https://github.com/arms-mbon/data_workspace/tree/main/analysis_data/from_pema/processing_batch2"
+        ],
+        "description": "The EMOF file for the ITS data",
+        "downloadURL": "https://data.arms-mbon.org/data_release_002/latest/#./ARMS_ITS_EMOF.csv"
+    },
     "_:JustinePagnier": {
         "@type": "Person",
         "name": "Justine Pagnier",
@@ -1216,5 +1297,6 @@
         "label": "_:point_55"
     }
 }
+
 
 
