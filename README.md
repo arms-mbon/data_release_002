@@ -1,5 +1,13 @@
 # data_release_002
 
+<!--
+**UPDATES** <br>
+These data are now available in the following biodiversity portals: 
+* OBIS dataset [ITS](https://obis.org/dataset/...), and its [metadata record](https://doi.org/10.14284/...)
+* OBIS dataset [COI](https://obis.org/dataset/...), and its [metadata record](https://doi.org/10.14284/...)
+* OBIS dataset [18S](https://obis.org/dataset/...), and its [metadata record](https://doi.org/10.14284/...)
+ -->
+
 These are the second set of data files to be submitted to (Eur)OBIS: taxonomic occurrences from the COI, 18S, and ITS marker gene omics data, sampling event metadata, and image metadata for the events of ARMS-MBON's second sampling campaign (all ARMS deployed in 2020 and 2021 and retrieved between and 2020 and 2022). This includes: 
 
 * The three 18S files: [DNA extension](https://github.com/arms-mbon/data_release_002/blob/main/ARMS_18S_DNAextension.csv), [EMOF](https://github.com/arms-mbon/data_release_002/blob/main/ARMS_18S_EMOF.csv), [Occurrence extension](https://github.com/arms-mbon/data_release_002/blob/main/ARMS_18S_Occurrence.csv) (processed dates: April 2021, Aug. 2023, Sept 2020)
